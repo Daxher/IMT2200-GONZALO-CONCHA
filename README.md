@@ -5,3 +5,4 @@ En este repositorio se encuentran mis avances y entregas del curso Introducción
 # Actualizaciones
 
 * 11/08/2025: Creacion del repositorio y entrega de la actividad 1.
+* 26/08/2025: Entrega Tarea 1.
